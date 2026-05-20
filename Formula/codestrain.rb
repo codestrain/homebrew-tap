@@ -1,8 +1,8 @@
 class Codestrain < Formula
   desc "Your AI coding recovery score, from the terminal"
   homepage "https://codestrain.dev"
-  url "https://files.pythonhosted.org/packages/0a/b6/1687892c1383e269c42ed10f3bb45a6f13e77406dfc065575d8843535a21/codestrain-0.1.5.tar.gz"
-  sha256 "a0d400c7b90adb9e816190c49244e7b2d8a2d8f84295a8738971554d5790a3cf"
+  url "https://files.pythonhosted.org/packages/fa/32/7bb729227c4345bbe96be7f5ec4e9bc6ef81891a622e5bd91f6d924e2829/codestrain-0.1.6.tar.gz"
+  sha256 "60fd2f58fc9b0bfdd3b38f9ff13c82c05054ff41ea1d478a0efbefb7cddf066d"
   license "MIT"
 
   # codestrain is a single-file stdlib-only script — no pip resources, no
